@@ -11,7 +11,6 @@ const App = () => {
         <Page />
         <ThemeToggleButton />
       </ThemeProvider>
-  
     </div>
   )
 }
